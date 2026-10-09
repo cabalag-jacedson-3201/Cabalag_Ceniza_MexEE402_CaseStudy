@@ -9,7 +9,7 @@ Batangas State University, Alangilan Campus
 | Name | Student Number | Section |
 |---|---|---|
 | Cabalag, Jacedson | 23-00967 | MEXE-4101 |
-| Ceniza, Janzen | | MEXE-4101 |
+| Ceniza, Janzen | 23-06972 | MEXE-4101 |
 
 ## Notebook links
 
