@@ -73,10 +73,17 @@ Batangas State University, Alangilan Campus
   </tbody>
 </table>
 
-## Errors we found
+# Errors We Found
 
-List any mistake you found in the original notebooks, and the correct version.
-There are real ones in there. Finding them earns points.
+## Chapter 6 – Outlier Detection
+- The outlier detection result does not display the value `100` as expected.
+
+## Chapter 7 – Feature Selection Using RFECV
+- The feature selection process produces repeated `UndefinedMetricWarning` messages because the R² score is not well-defined with fewer than two samples.
+- The output selects `assignments completed` as the feature.
+
+## Chapter 9 – Discretization
+- There appears to be a reversal or inconsistency in the discretization results.
 
 ## Note on AI tools
 
