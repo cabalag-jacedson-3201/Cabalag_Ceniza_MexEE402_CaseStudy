@@ -23,8 +23,7 @@ Batangas State University, Alangilan Campus
 | Ch8 | [[link]()](https://colab.research.google.com/drive/1rKXW88rDxsfEFZGlW2IEzZeXWx3EouSf?usp=drive_link) | 
 | Ch9 | [[link]()](https://colab.research.google.com/drive/1ikeO9F0X2se_fuGhfWl5iVehr9eV5JfY?usp=drive_link) |
 
-## What we learned
-# What We Learned
+## What We Learned
 
 <table align="center" width="100%">
   <thead>
@@ -73,25 +72,24 @@ Batangas State University, Alangilan Campus
   </tbody>
 </table>
 
-# Errors We Found
+## Errors We Found
 
-## Chapter 6 – Outlier Detection
+### Chapter 6 – Outlier Detection
 - The outlier detection result does not display the value `100` as expected.
 
-## Chapter 7 – Feature Selection Using RFECV
+### Chapter 7 – Feature Selection Using RFECV
 - The feature selection process produces repeated `UndefinedMetricWarning` messages because the R² score is not well-defined with fewer than two samples.
 - The output selects `assignments completed` as the feature.
 
-## Chapter 9 – Discretization
+### Chapter 9 – Discretization
 - There appears to be a reversal or inconsistency in the discretization results.
 
-## Note on AI tools
 
-Say whether you used an AI tool, and what for. This is not a penalty.
-Hiding it is.
+## Note on AI Tools
 
-Grammarly was used in some cases to improve sentence structure\
-Gemini was used to give the students a better understanding on how scalers and filters work
+- **Grammarly** was used in some cases to improve sentence structure and grammar.
+- **Gemini** was used to help us better understand how scalers and filters work.
+- **ChatGPT** was used to help us understand the overall program, including its code, functions, and the purpose of each step.
 
 ## References
 
