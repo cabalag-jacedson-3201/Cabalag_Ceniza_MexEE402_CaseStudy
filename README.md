@@ -83,7 +83,7 @@ There are real ones in there. Finding them earns points.
 Say whether you used an AI tool, and what for. This is not a penalty.
 Hiding it is.
 
-Grammarly was used in some cases to improve sentence structure
+Grammarly was used in some cases to improve sentence structure\
 Gemini was used to give the students a better understanding on how scalers and filters work
 
 ## References
